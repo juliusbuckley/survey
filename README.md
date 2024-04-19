@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Survey
+
+![survey Demo](./survey.gif 'survey Demo gif')
 
 In the project directory, you can run:
 
